@@ -1,0 +1,19 @@
+DISCLAIMER I AM NOT RESPONSIBLE FOR ANY DAMAGES TO VEHICLES. DO THIS AT YOUR OWN RISK
+
+Using the list of materials 
+
+1. Aquire all the parts from the Materials list
+2. Build the circuit using the provided schematic except the AT-Tiny 85
+3. *Note* the maximum consistant current draw is 3A. 
+4. Connect the 2 terminal blocks to the LED 
+5. Solder the cigarette connector to the 8ft of speaker wire
+6. Program the At-Tiny using a arduino uno or at-tiny programmer board
+7. Solder the AT-Tiny to the board
+8. Connect power to the input of the cirucit 
+9. Watch the leds flash
+10.Build the enclosure for the LED strips and circuit
+11.Attach to your car and **respond to calls
+
+**Emergency lights may not be legal in your area need to be approved by your local police, EMS chief or Fire Chief. You must be trained to use emergency lights before driving on public roads. 
+
+Led enclosure is included in as an STL file. And can be mounted with "double sided mounting tape". 
